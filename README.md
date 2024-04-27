@@ -5,5 +5,5 @@ ControlNet with Fewer Parameters, but Comparable Performance.
 
 模型权重文件/代码/教程，将于6月初公布
 
-ControlNet-Lighter的性能对比：测试中....
+ControlNet-Lighter的性能对比：测试中...FID不够理想，重新合成数据集中，数据集也会开源
 
